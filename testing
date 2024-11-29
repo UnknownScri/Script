@@ -1,0 +1,3 @@
+-- This script sets up global variables for green and red circle emojis
+_G.greencircle = "🟢" -- Green circle emoji
+_G.redcircle = "🔴"   -- Red circle emoji
